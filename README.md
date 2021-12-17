@@ -1,4 +1,3 @@
-# Introduce
 안녕하세요. 개발만 아니라 서비스 유지 및 관리에도 관심있는 __안드로이드 개발자__ 입니다.
 
 현재 __"Clean Architecture, Code Refactoring"__ 이 주요 관심사 입니다.
