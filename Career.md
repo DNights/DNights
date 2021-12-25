@@ -7,9 +7,9 @@
 
 ### Link
 - https://dealicious.kr/
-- https://www.notion.so/e8747fb16efe4f1ba7747e7f96f9d373
 - https://sinsangmarket.kr/
 - https://play.google.com/store/apps/details?id=net.deali.ssmarket
+- https://www.notion.so/e8747fb16efe4f1ba7747e7f96f9d373
 
 ### Project List
 - __신상마켓 안드로이드 앱 개발 및 유지보수 (2019.10 - 현재)__
