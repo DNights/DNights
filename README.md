@@ -1,4 +1,4 @@
-# Introduce
+## Introduce
 안녕하세요. 개발만 아니라 서비스 유지 및 관리에도 관심있는 __안드로이드 개발자__ 입니다.
 
 Code Refactoring을 하는것을 좋아하고 최근에는 Jetpack Compose를 공부중 입니다.
