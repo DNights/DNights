@@ -8,7 +8,7 @@ Code Refactoring을 하는것을 좋아하고 최근에는 Jetpack Compose를 �
 ## Career
 - 안드로이드 개발 8년
 - 현재 [딜리셔스](https://dealicious.kr) 재직중(연구개발센터 클라인언트 팀 안드로이드 파트)
-- [경력기술서](https://github.com/DNights/Introduce/blob/master/Career.md)
+- [경력기술서](https://github.com/DNights/DNights/blob/main/Career.md)
 
 ## Links
 - E-mail - guehgk456@gmail.com
