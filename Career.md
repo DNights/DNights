@@ -35,6 +35,7 @@
 - 안드로이드 개발
 
 ### Link
+- https://www.google.com/search?q=13%EB%A7%88%EC%9D%BC+NEXT-M&newwindow=1&rlz=1C1SQJL_koKR922KR922&sxsrf=ALiCzsbQyiN1M9Ir9lZGQCJQc49nNpB1eg:1651834529789&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjiwYCT28r3AhXKCaYKHUFlA6YQ_AUoAnoECAEQBA&biw=1920&bih=929&dpr=1
 - https://www.saramin.co.kr/zf_user/company-info/view/csn/c0lIYmI0d1BCREpnMGpneC9IdmZTdz09/company_nm/(%EC%A3%BC)13%EB%A7%88%EC%9D%BC
 - https://www.jobkorea.co.kr/Recruit/Co_Read/C/13mile
 
@@ -61,7 +62,7 @@
     + QR 코드를 안드로이드 테블릿의 카메라를 통해 인식하여 쿠폰을 사용하는 기능 개발
     + 쿠폰을 조회/사용 기능 RestAPI 연동 및 UI개발
 
-- __커피 자판기 화면 및 USB Serial 통신 개발 (2018.1 - 2019.10)__
+- __[커피 자판기](https://www.joongang.co.kr/article/22399001#home) 화면 및 USB Serial 통신 개발 (2018.1 - 2019.10)__
     + 안드로이드 테블릿의 USB를 사용하여 PCV 보드와 USB SERIAL 통신
     + 자판기 화면 UI/UX 개발
     
@@ -71,6 +72,9 @@
 - 개발팀 / 연구원
 - 중국 현지 근무
 - 안드로이드 개발
+
+### Link
+- http://www.retechcorp.com/zh-CN/News/Detail/1508
 
 ### Project List
 - __DreamBook 3.0 콘텐츠 안드로이드 앱 Player 개발 (2015.11 - 2016.11)__
@@ -92,6 +96,7 @@
 - 안드로이드 개발
 
 ### Link
+- https://www.google.com/search?q=%EB%84%B7%EC%95%A4%ED%8B%B0%EB%B9%84+studio4UX&newwindow=1&rlz=1C1SQJL_koKR922KR922&hl=ko&tbm=isch&sxsrf=ALiCzsZnhIkzQ0rYVuj3pslbB5X4fmJrTw:1651834944107&source=lnms&sa=X&ved=2ahUKEwizvMjY3Mr3AhUQhJQKHRr7CzUQ_AUoAnoECAEQBA&biw=1920&bih=929&dpr=1
 - http://www.jobkorea.co.kr/Recruit/Co_Read/C/netntv
 - http://www.saramin.co.kr/zf_user/company-info/view?csn=1208609390
 
