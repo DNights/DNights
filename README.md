@@ -21,7 +21,6 @@ Code Refactoring을 하는것을 좋아하고 최근에는 Jetpack Compose를 �
 - Google Developer Profile - https://g.dev/DNight
 - 프로그래머스(programmers) - https://programmers.co.kr/pr/DNights
 - 로켓펀치(rocketpunch) - https://www.rocketpunch.com/@guehgk456
-- 더팀스(theteam) - https://www.theteams.kr/profile/179222
 
 ## Toy Project
 - Ddayer (https://play.google.com/store/apps/details?id=com.ddayer.dn)
