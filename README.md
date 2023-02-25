@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DNights)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)      
 
@@ -17,6 +17,7 @@ Code Refactoring을 하는것을 좋아하고 최근관심을 가지고 보고 �
 - Blog - https://dnight.tistory.com
 - GitHub - https://github.com/DNights
 - Google Developer Profile - https://g.dev/DNight
+- Linkedin - https://www.linkedin.com/in/donghan-h-11b78b237
 - 프로그래머스(programmers) - https://programmers.co.kr/pr/DNights
 - 로켓펀치(rocketpunch) - https://www.rocketpunch.com/@guehgk456
 
