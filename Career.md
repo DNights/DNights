@@ -97,7 +97,6 @@
 
 ### Link
 - https://www.google.com/search?q=%EB%84%B7%EC%95%A4%ED%8B%B0%EB%B9%84+studio4UX&newwindow=1&rlz=1C1SQJL_koKR922KR922&hl=ko&tbm=isch&sxsrf=ALiCzsZnhIkzQ0rYVuj3pslbB5X4fmJrTw:1651834944107&source=lnms&sa=X&ved=2ahUKEwizvMjY3Mr3AhUQhJQKHRr7CzUQ_AUoAnoECAEQBA&biw=1920&bih=929&dpr=1
-- http://www.jobkorea.co.kr/Recruit/Co_Read/C/netntv
 - http://www.saramin.co.kr/zf_user/company-info/view?csn=1208609390
 
 ### Project List
