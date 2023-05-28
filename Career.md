@@ -4,6 +4,7 @@
 - 2019.10 ~ 현재
 - 연구개발센터 클라이언트 팀 안드로이드 파트 소속
 - [신상마켓](https://play.google.com/store/apps/details?id=net.deali.ssmarket) 안드로이드 개발
+- 2023.03 안드로이드 파트장 직책
 
 ### Link
 - https://dealicious.kr/
