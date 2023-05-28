@@ -8,8 +8,11 @@
 Code Refactoring을 하는것을 좋아하고 최근관심을 가지고 보고 있는 분야는 [KMM(Kotlin Multiplatform Mobile)](https://kotlinlang.org/lp/mobile/)과 [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=CjwKCAjw1ICZBhAzEiwAFfvFhHQ9FCIcGRfyg5ZCELFu_V5GE0UpAPVilWG59PqMKHvCIZrEEMrb9hoCTcYQAvD_BwE&gclsrc=aw.ds) 입니다.
 
 ## Career
-- 안드로이드 개발 9년
-- 현재 [딜리셔스](https://dealicious.kr) 재직중(연구개발센터 클라인언트 팀 안드로이드 파트)
+- 안드로이드 개발 10년
+- 2019.10 ~ 현재 [딜리셔스](https://dealicious.kr) 재직중(연구개발센터 클라인언트 팀 안드로이드 파트)
+- 2017.02 ~ 2019.10 13마일 안드로이드 개발
+- 2015.03 ~ 2016.11 Retech 안드로이드 개발
+- 2013.11 ~ 2015.02 넷앤티비 안드로이드 개발
 - [경력기술서](https://github.com/DNights/DNights/blob/main/Career.md)
 
 ## Links
