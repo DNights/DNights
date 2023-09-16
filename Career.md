@@ -23,7 +23,8 @@
     + [DexGuard](https://www.guardsquare.com/)를 사용하여 앱 난독화 및 위변조 방지등의 보안강화
     + [MVVM](https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%8D%B8-%EB%B7%B0-%EB%B7%B0%EB%AA%A8%EB%8D%B8) 디자인 패턴 적용
     + 신상마켓 앱 [GitHub Actions](https://github.com/features/actions)를 사용하여 앱빌드 자동화
-    + 신상마켓 회원가입 화면 [Jetpack Compose](https://developer.android.com/jetpack/compose)로 개발
+    + 신상마켓 [Jetpack Compose](https://developer.android.com/jetpack/compose)로 개발 및 마이그레이션
+    + 신상마켓 [디자인 시스탬](https://github.com/dealicious-inc/ssm-mobile-android-design-system) 도입
 
 - __사내용 사입 앱 개발 (2020.1 ~ 2020.6)__
     + 일부 UI 및 기능 개발 (참여율 20%)
