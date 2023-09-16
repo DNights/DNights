@@ -21,7 +21,7 @@
     + Retrofit2, Rx 사용하여 API Module을 분리
     + [웹소캣(actioncable)](https://github.com/dealicious-inc/actioncable-client-kotlin)을 사용한 신상톡 채팅 서비스 개발 
     + [DexGuard](https://www.guardsquare.com/)를 사용하여 앱 난독화 및 위변조 방지등의 보안강화
-    + [MVVM](https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%8D%B8-%EB%B7%B0-%EB%B7%B0%EB%AA%A8%EB%8D%B8) 디자인 패턴 적용
+    + MVVM 디자인 패턴 적용
     + 신상마켓 앱 [GitHub Actions](https://github.com/features/actions)를 사용하여 앱빌드 자동화
     + 신상마켓 [Jetpack Compose](https://developer.android.com/jetpack/compose)로 개발 및 마이그레이션
     + 신상마켓 [디자인 시스탬](https://github.com/dealicious-inc/ssm-mobile-android-design-system) 도입
