@@ -19,7 +19,7 @@
     + 신상마캣 앱 Google play [In-app update](https://developer.android.com/guide/playcore/in-app-updates) 적용
     + 신상마캣 앱 Java로 된 코드를 kotlin으로 100% 변경
     + Retrofit2, Rx 사용하여 API Module을 분리
-    + 웹소캣을 사용한 신상톡 채팅 서비스 개발
+    + 웹소캣을 사용한 신상톡 채팅 서비스 개발 (https://github.com/dealicious-inc/actioncable-client-kotlin)
     + [DexGuard](https://www.guardsquare.com/)를 사용하여 앱 난독화 및 위변조 방지등의 보안강화
     + [MVVM](https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%8D%B8-%EB%B7%B0-%EB%B7%B0%EB%AA%A8%EB%8D%B8) 디자인 패턴 적용
     + 신상마켓 앱 [GitHub Actions](https://github.com/features/actions)를 사용하여 앱빌드 자동화
