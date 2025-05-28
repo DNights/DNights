@@ -1,7 +1,5 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DNights&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)      
-
+  
 ## 🙋‍♂️ Introduce  
 안녕하세요. 현재 **딜리셔스**에서 **신상마켓 안드로이드 파트의 파트장**을 맡고 있는 안드로이드 개발자입니다. 11년간 다양한 프로젝트를 경험하며 앱 개발, 유지보수, 리팩토링, 자동화 및 팀 리딩까지 폭넓은 경험을 쌓아왔습니다.
 
