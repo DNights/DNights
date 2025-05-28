@@ -11,7 +11,6 @@
 - [딜리셔스 홈페이지](https://dealicious.kr/)
 - [신상마켓 홈페이지](https://sinsangmarket.kr/)
 - [신상마켓 안드로이드 앱](https://play.google.com/store/apps/details?id=net.deali.ssmarket)
-- [팀/조직 노션 소개](https://www.notion.so/e8747fb16efe4f1ba7747e7f96f9d373)
 
 ### 📂 주요 프로젝트
 
