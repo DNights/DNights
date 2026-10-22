@@ -4,14 +4,6 @@
 
 ---
 
-## 🛠 Tech Stack
-- **Language**: Kotlin, Java, C++ (NDK), Python
-- **Android**: Jetpack Compose, MVVM, Coroutines, RxJava, Retrofit2, Koin(DI), 멀티 모듈
-- **Build & CI/CD**: GitHub Actions, Bitrise, Jenkins, R8 / DexGuard, Baseline Profiles
-- **Etc**: WebSocket(ActionCable), Firebase Crashlytics, 디자인 시스템, Dokka
-
----
-
 ## ✨ Highlights
 - 🛍️ **신상마켓** 안드로이드 앱 — Java → Kotlin 100% 전환, 모듈화, Jetpack Compose 마이그레이션, 디자인 시스템 도입
 - 🤖 AI 코딩 에이전트 하네스 구축 — AGENTS.md·스킬 기반 Context Engineering, 작업 교훈을 축적하는 교훈 루프 도입 (2026)
