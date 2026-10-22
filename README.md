@@ -39,18 +39,6 @@
 
 ---
 
-## 🧪 Side Projects & Samples
-| 분류 | 저장소 |
-|---|---|
-| 🧰 도구 / 라이브러리 | [StringResGenerator](https://github.com/DNights/StringResGenerator) (엑셀 → Android/iOS 문자열 리소스 자동 생성), [CircularViewPager](https://github.com/DNights/CircularViewPager), [AndroidUniqueID](https://github.com/DNights/AndroidUniqueID) |
-| 🎨 Jetpack Compose | [JetpackComposeSample](https://github.com/DNights/JetpackComposeSample), [ComposeCamp2022](https://github.com/DNights/ComposeCamp2022), [ComposeFest2021](https://github.com/DNights/ComposeFest2021) |
-| 🏗 아키텍처 / DI | [AndroidDISample](https://github.com/DNights/AndroidDISample), [KoinSampleTest](https://github.com/DNights/KoinSampleTest), [KotlinDelegateSample](https://github.com/DNights/KotlinDelegateSample), [LiveDataSample](https://github.com/DNights/LiveDataSample) |
-| 🔄 비동기 | [CoroutinesSampleTest](https://github.com/DNights/CoroutinesSampleTest), [RxBusSample](https://github.com/DNights/RxBusSample), [rxSubjectSample](https://github.com/DNights/rxSubjectSample) |
-| ⚡ 빌드 / 성능 | [AndroidBaselineProfilesSample](https://github.com/DNights/AndroidBaselineProfilesSample), [AndroidR8Sample](https://github.com/DNights/AndroidR8Sample), [BitriseSample](https://github.com/DNights/BitriseSample), [DokkaSample](https://github.com/DNights/DokkaSample) |
-| 📱 플랫폼 API | [AndroidScopedStorageSample](https://github.com/DNights/AndroidScopedStorageSample), [Android12SplashScreenSample](https://github.com/DNights/Android12SplashScreenSample), [AndroidNotificationsSample](https://github.com/DNights/AndroidNotificationsSample), [StickyHeaderRecyclerViewSample](https://github.com/DNights/StickyHeaderRecyclerViewSample), [RestAPISample](https://github.com/DNights/RestAPISample), [JNISample](https://github.com/DNights/JNISample) |
-
----
-
 ## 🔗 Links
 - 📧 **Email**: guehgk456@gmail.com  
 - 📘 **Blog**: [dnight.tistory.com](https://dnight.tistory.com)  
