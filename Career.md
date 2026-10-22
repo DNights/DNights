@@ -144,13 +144,3 @@
   GCM 푸시 기능 포함
 
 - **Studio 4UX 솔루션 연구개발 및 유지보수 (2013.11 ~ 2015.02)**
-
----
-
-## 🧪 개인 프로젝트 및 활동
-- **오픈소스 / 도구**
-  - [StringResGenerator](https://github.com/DNights/StringResGenerator): 엑셀 파일을 읽어 Android/iOS 문자열 리소스 자동 생성 (Python)
-  - [CircularViewPager](https://github.com/DNights/CircularViewPager): Android 순환 ViewPager 라이브러리
-  - [AndroidUniqueID](https://github.com/DNights/AndroidUniqueID): Android 기기 고유 식별자 샘플
-- **기술 학습 샘플**: Jetpack Compose, DI(Koin), Coroutines, Rx, Baseline Profiles, R8, Scoped Storage, Android 12 SplashScreen, Dokka, Bitrise 등 ([GitHub 저장소 목록](https://github.com/DNights?tab=repositories))
-- **커뮤니티**: GDG DevFest Seoul 2019, ComposeFest 2021, Compose Camp 2022 참여
