@@ -26,27 +26,11 @@
 ### 📂 주요 프로젝트
 
 #### 🛍️ 신상마켓 안드로이드 앱 개발 및 유지보수 (2019.10 ~ 현재)
-- 앱 지속적인 리펙토링
-- 프로젝트 모듈화
-- Google Play [In-app update](https://developer.android.com/guide/playcore/in-app-updates) 적용
-- Java → Kotlin 100% 전환
-- Retrofit2, Rx 기반 API 모듈 분리
-- [웹소켓(ActionCable)](https://github.com/dealicious-inc/actioncable-client-kotlin) 기반 채팅 서비스 개발
-- [DexGuard](https://www.guardsquare.com/)를 통한 보안 강화
-- MVVM 디자인 패턴 적용
-- [GitHub Actions](https://github.com/features/actions) 기반 앱 빌드 자동화
-- [Jetpack Compose](https://developer.android.com/jetpack/compose) 적용 및 마이그레이션
-- [디자인 시스템](https://github.com/dealicious-inc/ssm-mobile-android-design-system) 도입
-
-#### 🚀 신상마켓 앱 고도화 (2025.05 ~ 현재)
-- **AI 코딩 에이전트 하네스 구축**: AGENTS.md·스킬 기반 Context Engineering 구조 설계, PR 생성 스킬, 작업 교훈을 축적·반영하는 교훈 루프 도입
-- **미디어**: ExoPlayer2 → [Media3](https://developer.android.com/media/media3) 마이그레이션, 상품 상세 동영상 업로드·재생 기능 개발, 영상 선택 화면 로딩 속도 개선
-- **최신 플랫폼 대응**: [Edge-to-Edge](https://developer.android.com/develop/ui/views/layout/edge-to-edge) 적용, Firebase Dynamic Links 종료에 따른 딥링크 전환
-- **안정성**: ANR·Crashlytics 이슈 개선, Android 17 메모리 한도 초과 종료 수집, 카메라 권한 예외 방어 로직 공통화
-- **앱 용량 최적화**: 미사용 리소스 정리, PNG → WebP 전환
-- **보안**: 보안 점검(ISMS·취약점 진단) 결과 클라이언트 결함 조치
-- **서비스 기능**: 신상톡 채팅 토큰 갱신 로직, 쿠폰, 멤버십 앱푸시·팝업 자동화, 회원가입·사업자 인증(증빙서류 다중 업로드) 개선, 상품 정보 다국어 번역
-- **빌드**: Gradle 8.10 업데이트, GitHub Actions 빌드 설정 개선
+- **아키텍처·코드 현대화**: Java → Kotlin 100% 전환, MVVM 적용, 프로젝트 모듈화, Retrofit2·Rx 기반 API 모듈 분리
+- **UI**: [Jetpack Compose](https://developer.android.com/jetpack/compose) 마이그레이션, [디자인 시스템](https://github.com/dealicious-inc/ssm-mobile-android-design-system) 도입, Edge-to-Edge 적용
+- **기능 개발**: [웹소켓(ActionCable)](https://github.com/dealicious-inc/actioncable-client-kotlin) 기반 채팅, ExoPlayer2 → Media3 마이그레이션 및 상품 동영상 기능, In-app update, 딥링크 전환(Dynamic Links 대체)
+- **품질·보안**: ANR·크래시 개선, 앱 용량 최적화, DexGuard 적용, 보안 점검 결과 대응
+- **빌드·생산성**: GitHub Actions 기반 빌드 자동화, AI 코딩 에이전트 하네스(AGENTS.md·스킬·교훈 루프) 구축
 
 #### 📦 사내용 사입 앱 개발 (2020.01 ~ 2020.06)
 - UI 및 일부 기능 개발 (참여율 20%)  
@@ -144,3 +128,13 @@
   GCM 푸시 기능 포함
 
 - **Studio 4UX 솔루션 연구개발 및 유지보수 (2013.11 ~ 2015.02)**
+
+---
+
+## 🧪 개인 프로젝트 및 활동
+- **오픈소스 / 도구**
+  - [StringResGenerator](https://github.com/DNights/StringResGenerator): 엑셀 파일을 읽어 Android/iOS 문자열 리소스 자동 생성 (Python)
+  - [CircularViewPager](https://github.com/DNights/CircularViewPager): Android 순환 ViewPager 라이브러리
+  - [AndroidUniqueID](https://github.com/DNights/AndroidUniqueID): Android 기기 고유 식별자 샘플
+- **기술 학습 샘플**: Jetpack Compose, DI(Koin), Coroutines, Rx, Baseline Profiles, R8, Scoped Storage, Android 12 SplashScreen, Dokka, Bitrise 등 ([GitHub 저장소 목록](https://github.com/DNights?tab=repositories))
+- **커뮤니티**: GDG DevFest Seoul 2019, ComposeFest 2021, Compose Camp 2022 참여
