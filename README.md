@@ -14,6 +14,8 @@
 
 ## ✨ Highlights
 - 🛍️ **신상마켓** 안드로이드 앱 — Java → Kotlin 100% 전환, 모듈화, Jetpack Compose 마이그레이션, 디자인 시스템 도입
+- 🤖 AI 코딩 에이전트 하네스 구축 — AGENTS.md·스킬 기반 Context Engineering, 작업 교훈을 축적하는 교훈 루프 도입 (2026)
+- 🎬 ExoPlayer2 → Media3 마이그레이션 및 상품 동영상 기능 개발, Edge-to-Edge 적용, ANR·크래시 개선과 앱 용량 최적화 (2025 ~ 2026)
 - 💬 WebSocket(ActionCable) 기반 채팅 서비스 개발 — [actioncable-client-kotlin](https://github.com/dealicious-inc/actioncable-client-kotlin)
 - ⚙️ GitHub Actions 기반 빌드 자동화, DexGuard 보안 강화, In-app update 적용
 - 💳 **NEXT-M** 결제 앱 — 카카오페이·SSG Pay·알리페이 등 결제 수단 연동, 카드단말기 USB Serial 통신
