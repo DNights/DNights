@@ -1,11 +1,22 @@
 # 📌 경력사항
 
+> **안드로이드 개발 13년차** (2013.11 ~ 현재) · 현 딜리셔스 신상마켓 안드로이드 파트장
+> 커머스 · 결제 · 콘텐츠 Player · 교육/미디어 앱 개발 경험
+
+| 기간 | 회사 | 역할 | 대표 프로젝트 |
+|---|---|---|---|
+| 2019.10 ~ 현재 | 딜리셔스 | 안드로이드 파트장 (2023.03 ~) | 신상마켓 안드로이드 앱 |
+| 2017.02 ~ 2019.10 | 13마일 | 대리 | NEXT-M 결제 앱 |
+| 2015.03 ~ 2016.11 | Retech (중국) | 연구원 | DreamBook 콘텐츠 Player / SDK |
+| 2013.11 ~ 2015.02 | 넷앤티비 | 연구원 | KBS 콘피아, Samsung Learning Viewer 등 |
+
 ---
 
 ## 💼 딜리셔스 (2019.10 ~ 현재)  
 - **소속**: 연구개발센터 클라이언트 팀 안드로이드 파트  
 - **직책**: 안드로이드 파트장 (2023.03 ~ 현재)  
 - **주요 업무**: [신상마켓](https://play.google.com/store/apps/details?id=net.deali.ssmarket) 안드로이드 앱 개발  
+- **기술 스택**: Kotlin, Jetpack Compose, MVVM, Coroutines, RxJava, Retrofit2, Media3, 멀티 모듈, GitHub Actions, DexGuard, AI 코딩 에이전트  
 
 ### 🔗 관련 링크
 - [딜리셔스 홈페이지](https://dealicious.kr/)
@@ -27,15 +38,26 @@
 - [Jetpack Compose](https://developer.android.com/jetpack/compose) 적용 및 마이그레이션
 - [디자인 시스템](https://github.com/dealicious-inc/ssm-mobile-android-design-system) 도입
 
+#### 🚀 신상마켓 앱 고도화 (2025.05 ~ 현재)
+- **AI 코딩 에이전트 하네스 구축**: AGENTS.md·스킬 기반 Context Engineering 구조 설계, PR 생성 스킬, 작업 교훈을 축적·반영하는 교훈 루프 도입
+- **미디어**: ExoPlayer2 → [Media3](https://developer.android.com/media/media3) 마이그레이션, 상품 상세 동영상 업로드·재생 기능 개발, 영상 선택 화면 로딩 속도 개선
+- **최신 플랫폼 대응**: [Edge-to-Edge](https://developer.android.com/develop/ui/views/layout/edge-to-edge) 적용, Firebase Dynamic Links 종료에 따른 딥링크 전환
+- **안정성**: ANR·Crashlytics 이슈 개선, Android 17 메모리 한도 초과 종료 수집, 카메라 권한 예외 방어 로직 공통화
+- **앱 용량 최적화**: 미사용 리소스 정리, PNG → WebP 전환
+- **보안**: 보안 점검(ISMS·취약점 진단) 결과 클라이언트 결함 조치
+- **서비스 기능**: 신상톡 채팅 토큰 갱신 로직, 쿠폰, 멤버십 앱푸시·팝업 자동화, 회원가입·사업자 인증(증빙서류 다중 업로드) 개선, 상품 정보 다국어 번역
+- **빌드**: Gradle 8.10 업데이트, GitHub Actions 빌드 설정 개선
+
 #### 📦 사내용 사입 앱 개발 (2020.01 ~ 2020.06)
-- UI 및 일부 기능 개발 (참여율 20%)
-- 유지보수
+- UI 및 일부 기능 개발 (참여율 20%)  
+- 유지보수 (~ 현재): Gradle 8.10 업데이트, GitHub Actions 빌드·Slack 알림 워크플로 개선 (2025)
 
 ---
 
 ## 💼 13마일 (2017.02 ~ 2019.10)  
 - **소속**: R&D 기술개발팀 / 대리  
-- **주요 업무**: 안드로이드 앱 개발
+- **주요 업무**: 안드로이드 앱 개발  
+- **기술 스택**: Kotlin, Java, RxJava, zxing, USB Serial, Jenkins, Firebase Crashlytics  
 
 ### 🔗 관련 링크
 - [NEXT-M 관련 이미지 검색](https://www.google.com/search?q=13%EB%A7%88%EC%9D%BC+NEXT-M)
@@ -74,7 +96,8 @@
 ## 💼 Retech (2015.03 ~ 2016.11)  
 - **소속**: 개발팀 / 연구원  
 - **근무지**: 중국 현지  
-- **주요 업무**: 안드로이드 앱 개발
+- **주요 업무**: 안드로이드 앱 개발  
+- **기술 스택**: Java, Android NDK, C++, SDK 설계/배포  
 
 ### 🔗 관련 링크
 - [회사 홈페이지](http://www.retechcorp.com/zh-CN/News/Detail/1508)
@@ -96,7 +119,8 @@
 
 ## 💼 넷앤티비 (2013.11 ~ 2015.02)  
 - **소속**: DMB 연구소 / 연구원  
-- **주요 업무**: 안드로이드 앱 개발
+- **주요 업무**: 안드로이드 앱 개발  
+- **기술 스택**: Java, WebView, GCM, SNS SDK(Facebook, Twitter, Kakao)  
 
 ### 🔗 관련 링크
 - [회사 관련 이미지 검색](https://www.google.com/search?q=%EB%84%B7%EC%95%A4%ED%8B%B0%EB%B9%84+studio4UX)
@@ -120,3 +144,13 @@
   GCM 푸시 기능 포함
 
 - **Studio 4UX 솔루션 연구개발 및 유지보수 (2013.11 ~ 2015.02)**
+
+---
+
+## 🧪 개인 프로젝트 및 활동
+- **오픈소스 / 도구**
+  - [StringResGenerator](https://github.com/DNights/StringResGenerator): 엑셀 파일을 읽어 Android/iOS 문자열 리소스 자동 생성 (Python)
+  - [CircularViewPager](https://github.com/DNights/CircularViewPager): Android 순환 ViewPager 라이브러리
+  - [AndroidUniqueID](https://github.com/DNights/AndroidUniqueID): Android 기기 고유 식별자 샘플
+- **기술 학습 샘플**: Jetpack Compose, DI(Koin), Coroutines, Rx, Baseline Profiles, R8, Scoped Storage, Android 12 SplashScreen, Dokka, Bitrise 등 ([GitHub 저장소 목록](https://github.com/DNights?tab=repositories))
+- **커뮤니티**: GDG DevFest Seoul 2019, ComposeFest 2021, Compose Camp 2022 참여
