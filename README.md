@@ -15,6 +15,13 @@
 
 ---
 
+## 📱 Side Project
+- **디데이어 (Ddayer)** — 2016년부터 직접 운영 중인 D-day · 기념일 위젯 앱  
+  2026년 Jetpack Compose · Material 3로 전면 개편 (Room 마이그레이션, 사진 위젯, 캘린더, 다크 모드, Firebase Crashlytics · Performance)  
+  [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.ddayer.dn)
+
+---
+
 ## 🧑‍💻 Career Summary
 - **안드로이드 개발 경력**: 13년차 (2013.11 ~ 현재)
 - **딜리셔스 (2019.10 ~ 현재)**  
