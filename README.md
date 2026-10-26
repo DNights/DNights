@@ -43,7 +43,7 @@ I currently lead the **Android part of Sinsang Market** at **Dealicious**. Since
 
 | 기간 / Period | 회사 / Company | 역할 / Role |
 |---|---|---|
-| 2019.10 ~ 현재 / present | [딜리셔스 Dealicious](https://dealicious.kr) | 연구개발센터 클라이언트 팀 안드로이드 파트 파트장 (2023.03 ~) / Android part lead (since 2023.03), Client team, R&D Center |
+| 2019.10 ~ 현재 / present | [딜리셔스 Dealicious](https://dealicious.kr) | 연구개발센터 모바일개발팀 안드로이드 파트 파트장 (2023.03 ~) / Android part lead (since 2023.03), Mobile Development team, R&D Center |
 | 2017.02 ~ 2019.10 | 13마일 | 안드로이드 앱 개발 / Android app development |
 | 2015.03 ~ 2016.11 | Retech | 중국 현지 근무, 안드로이드 앱 개발 / On-site in China, Android app development |
 | 2013.11 ~ 2015.02 | 넷앤티비 | 안드로이드 앱 개발 / Android app development |

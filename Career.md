@@ -13,7 +13,7 @@
 ---
 
 ## 💼 딜리셔스 (2019.10 ~ 현재)  
-- **소속**: 연구개발센터 모바일팀 안드로이드 파트
+- **소속**: 연구개발센터 모바일개발팀 안드로이드 파트
 - **직책**: 안드로이드 파트장 (2023.03 ~ 현재)  
 - **주요 업무**: [신상마켓](https://play.google.com/store/apps/details?id=net.deali.ssmarket) 안드로이드 앱 개발  
 - **기술 스택**: Kotlin, Jetpack Compose, MVVM, Coroutines, RxJava, Retrofit2, Media3, 멀티 모듈, GitHub Actions, DexGuard, AI 코딩 에이전트  
